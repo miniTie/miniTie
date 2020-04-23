@@ -10,6 +10,7 @@ import java.util.Date;
 @Table(name = "mc_message")
 public class McMessage implements Serializable {
 //sdgdds
+    //vvvdfsgdg
     @Id
     @Column(name = "message_id")
     private Long messageId;
