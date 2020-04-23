@@ -12,6 +12,7 @@ public class McMessage implements Serializable {
 //sdgdds
     //vvvdfsgdg
     付电话费
+    =sdavda
     @Id
     @Column(name = "message_id")
     private Long messageId;
